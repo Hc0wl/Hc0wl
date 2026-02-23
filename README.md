@@ -5,6 +5,7 @@
 
 # Activity
 
+- 2026 Google kernelCTF Winner (ID: exp440)
 - 2025 Vulnability Research Club (Project Team: VMBreakers)
 - 2025 Pwn2Own Berlin VirtualBox Winner – BoB Project PM (Project Team: Prison Break)
 - 2024 KITRI BOB 13th 취약점 분석 트랙 (Top 30)
@@ -44,13 +45,26 @@
 - [CVE-2025-62590](https://www.oracle.com/security-alerts/cpuoct2025.html) : Remote Code Execution
 - [CVE-2025-62591](https://www.oracle.com/security-alerts/cpuoct2025.html) : Out-Of-Bounds read
 - [CVE-2025-62641](https://www.oracle.com/security-alerts/cpuoct2025.html) : Remote Code Execution
-- Upcoming: [ZDI-CAN-27923](https://www.zerodayinitiative.com/advisories/upcoming/), [ZDI-CAN-27925](https://www.zerodayinitiative.com/advisories/upcoming/), [ZDI-CAN-27870](https://www.zerodayinitiative.com/advisories/upcoming/)
+- [CVE-2026-21955](https://www.oracle.com/security-alerts/cpujan2026.html) : Remote Code Execution
+- [CVE-2026-21956](https://www.oracle.com/security-alerts/cpujan2026.html) : Remote Code Execution
+- [CVE-2026-21984](https://www.oracle.com/security-alerts/cpujan2026.html) : Remote Code Execution
 
 </details>
+
+<details>
+<summary>Linux Kernel</summary>
+
+- [CVE-2025-71130](https://nvd.nist.gov/vuln/detail/CVE-2025-71130) : NULL Pointer Dereference
+- [CVE-2026-23074](https://nvd.nist.gov/vuln/detail/CVE-2026-23074) : Use After Free
+- [CVE-2026-23204](https://nvd.nist.gov/vuln/detail/cve-2026-23204) : Out-of-bounds Read
+
+</details>
+
 
 # Contact
 
 - Email : [km.kim1503@gmail.com](mailto:km.kim1503@gmail.com)
 - Twitters(x.com): [@Hc0wl](https://x.com/Hc0wl)
 - LinkedIn: [김강민](https://www.linkedin.com/in/%EA%B0%95%EB%AF%BC-%EA%B9%80-344a19319/)
+
 
